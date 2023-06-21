@@ -11,14 +11,14 @@ a {
 }
 
 ::-webkit-scrollbar {
-  width: 0px;
-  height: 5px;
+  width: 8px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: rgb(114, 113, 113);
+  background-color: #606060;
   border-radius: 10px;
   height: 200px;
+  cursor: pointer;
 }
 
 ::-webkit-scrollbar-track {
